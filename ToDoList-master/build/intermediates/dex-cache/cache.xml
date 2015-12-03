@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-37ffa207cdb0d77779c5f1c3fb411afce3d3e184.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\classes-724e0ea6cbe9ac3eedf29217187a5a3639e89fe2.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\classes-aee3c9c8e01730ccf1c654b8a73df0efad826dfe.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\classes-9d7703ecab3e8f2ede07db5f27959df2778fff1c.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\classes-745ba589e06d925154935383ec78a623b4eaf61b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\classes-2ea146205d86e24e52e50c15898a0ce94be09c16.jar" />
+    </item>
+    <item
+        jar="C:\MyDocuments\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Projects\ToDoList-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5012fafa5ae3b4d3d0170f2146e36f91567a5d2e.jar" />
+    </item>
+
+</items>
